@@ -75,3 +75,8 @@ That in some arguable way make you a better software developer or well-rounded p
 ## Hobbies
 
 Any cool stuff that makes you a super part of a software development team
+
+<a href="https://github.com/robinucar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=izaowl&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21%22%20alt=%22Martin%27s%20GitHub%20Stats%22" />
+</a>
+
