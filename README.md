@@ -32,7 +32,7 @@ Application Support Analyst
 Working in DevOps environment as the technical bridge between the software engineers, customer operations, product and
 business management and the production infrastructure, interacting with all areas of the business providing technical insight with a strong customer focus for multinational teams based in UK. Poland, South Africa and Spain. 
 
-## FircoSoftFircoSoft (Oct 2015 - Mar 2016)
+## FircoSoft (Oct 2015 - Mar 2016)
 Executed 1st and 2nd line e-mail and phone support to on-prem solutions for over 700 customers including 1st and 2nd tier banks and 8 of the 10 largest financial institutions. Validating and performing in-depth technical analysis of production and project issues to tight SLA’s. Assisting with escalations by liaising with Professional Services consultants and Product owners.
 
 ## Jive Software (Oct 2011 - Sept 2015)
@@ -97,9 +97,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 That in some arguable way make you a better software developer or well-rounded person
 
+## Volunteering
+
+I used my Scrum Mastery skills to assist activists who are working towards improvement of Reproductive Rights for Women in Poland and those who are promoting democratic values there. I organised many protests and coordinated online street and online campaigns as a member of Artistic Cooperative https://www.facebook.com/FARSAPL . I am currently working on a project to create educational package for teachers of Polish Language nd Culture Saturday schools for kids in Britain. This package will teach about right that children have enshrined in Polish Constitution. I am also working on desigining mobile phone app for Polish Citicens living abroad who have voting rights, that to be ready for next electio nwhich is coming in 2024.
+
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I am a dog owner and love long distance walking, history and sightseeing. I am a passionate owner of a small collection of indoor plants and an avid reader of books. 
 
 ##
 <h3 align="center">Languages and Tools</h3>
