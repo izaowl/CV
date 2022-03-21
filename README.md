@@ -29,25 +29,27 @@ business management and the production infrastructure, interacting with all area
 
 
 ## Imperial College London (Dec-2020 to Nov-2021)
-Product Engineer
+##### Product Engineer
 
 Provided delivery lifecycle product engineering for line of business applications, advising to find appropriate solutions and designing and developing or enhancing new products and providing operational support with respect to incidents. 
 
 ## Informa (Jul 2019 - Dec 2020)
-Application Support Analyst
+##### Application Support Analyst
 
 Supported The Global Exhibitions Division which organises transaction-oriented Exhibitions and trade shows, with a portfolio of over 150 Exhibitions.
 • Level 2 technical support for Global Exhibitions’ enterprise applications for Marketing and Sales: Eloqua, Adobe Analytics, AEM
 
 ## Wonga (Apr 2016 - June 2019)
-Application Support Analyst 
+##### Application Support Analyst 
 Working in DevOps environment as the technical bridge between the software engineers, customer operations, product and
 business management and the production infrastructure, interacting with all areas of the business providing technical insight with a strong customer focus for multinational teams based in UK. Poland, South Africa and Spain. 
 
 ## FircoSoft (Oct 2015 - Mar 2016)
+##### Technical Support Analyst 
 Executed 1st and 2nd line e-mail and phone support to on-prem solutions for over 700 customers including 1st and 2nd tier banks and 8 of the 10 largest financial institutions. Validating and performing in-depth technical analysis of production and project issues to tight SLA’s. Assisting with escalations by liaising with Professional Services consultants and Product owners.
 
 ## Jive Software (Oct 2011 - Sept 2015)
+##### NOC Engineer 
 Provided technical support for Jive’s >1000 hosted services’ customers with a focus on performance, connectivity and accessibility in virtual and cloud environments. Ensured rapid resolution to approximately 25 business-critical issues per day within strict SLA’s, including a 15 minute response time to severity 1 Tech Ops incidents, within a 24/7 rota. Identified, diagnosed and resolved network issues in EMEA and US data centres. Prioritised customer cases, network incidents and infrastructure maintenance, including escalation.
 
 Delivered 1st and 2nd line web and phone application support to 800 hosted and on-premises external customers, including major corporates with challenging deadlines. Identified and corrected Jive application code errors, documented solutions and recommended improvements to process and service quality. Liaised with Hosting, Engineering and Product teams.
