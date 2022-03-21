@@ -16,12 +16,12 @@ business management and the production infrastructure, interacting with all area
 
 
 ## Technologies 
-##### Javascript: React, Node, Express, Jest, SQL
-##### Ruby: Ruby on Rails, Sinatra, Rspec, Capybara
-##### CSS: Bootstrap
-##### Databases: PosgreSql, MongoDB, SQl Server
-##### Tools: Heroku, Git, Github Actions(CI/CD), Postman, Jira, Confluence, Splunk, ServiceNow, PagerDuty, Zendesk
-##### OS:Linux, Unix, Microsoft 
+#### Javascript: React, Node, Express, Jest, SQL
+#### Ruby: Ruby on Rails, Sinatra, Rspec, Capybara
+#### CSS: Bootstrap
+#### Databases: PosgreSql, MongoDB, SQl Server
+#### Tools: Heroku, Git, Github Actions(CI/CD), Postman, Jira, Confluence, Splunk, ServiceNow, PagerDuty, Zendesk
+#### OS:Linux, Unix, Microsoft 
 
 ## Work Experience
 
