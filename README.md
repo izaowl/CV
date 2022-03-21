@@ -9,8 +9,8 @@ business management and the production infrastructure, interacting with all area
 
 | Name                                    | Description                               | Technology/tools                                               |
 | ----------------------------------------| ------------------------------------------| ---------------------------------------------------------------|
-| **[Tasks managment tool server side](https://github.com/mat-diak/snacks-server)**         | Rest API for Tidbits client        | Express, Node, MongoDB, Heroku    
-| **[Tasks managment tool client side](https://github.com/mat-diak/snacks-client)**         | React solution                     | ReactJS, CSS, Bootstrap, JWT.  | 
+| **[Tasks managment tool server side](https://github.com/mat-diak/snacks-server)**         | Rest API for the server side   | Express, Node, MongoDB, Heroku    
+| **[Tasks managment tool client side](https://github.com/mat-diak/snacks-client)**         | React solution for the client side                   | ReactJS, CSS, Bootstrap, JWT.  | 
 | **[Acebook](https://github.com/izaowl/acebook-five-aces)**             | A webapp clone of Facebook         | Ruby on Rails, CSS, Bootstrap, Heroku, PSQL, HTML, Github Actions (CI/CD)|
 
 
