@@ -1,25 +1,37 @@
-## Izabela Sowula
+# Izabela Sowula, Msc
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
-
-Full-stack Junior Software Developer with application support background and 20 years’ experience in the provision and delivery of technical support within the financial services industry, collaboration software house and a transaction-oriented Exhibitions and trade shows provider, supported by a Masters in Computer Science. 
+Full-stack Junior Software Developer with application support background and 20 years’ experience in the provision and delivery of technical support within the financial services industry, collaboration software house, a transaction-oriented Exhibitions and trade shows provider and a Further Education University, supported by a Masters in Computer Science. 
 
 Worked in Agile DevOps environment as the technical bridge between the software engineers, customer operations, product and
-business management and the production infrastructure, interacting with all areas of the business providing technical insight with a strong customer focus for multinational teams. In addition worked in my own team as a Scrum Master.
+business management and the production infrastructure, interacting with all areas of the business providing technical insight with a strong customer focus for multinational teams. In addition assisted my own team as a Certified Scrum Master.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                                    | Description                               | Technology/tools                                               |
+| ----------------------------------------| ------------------------------------------| ---------------------------------------------------------------|
+| **[Tasks managment tool server side](https://github.com/mat-diak/snacks-server)**         | Rest API for Tidbits client        | Express, Node, MongoDB, Heroku    
+| **[Tasks managment tool client side](https://github.com/mat-diak/snacks-client)**         | React solution                     | ReactJS, CSS, Bootstrap, JWT.  | 
+| **[Acebook](https://github.com/izaowl/acebook-five-aces)**             | A webapp clone of Facebook         | Ruby on Rails, CSS, Bootstrap, Heroku, PSQL, HTML, Github Actions (CI/CD)|
+
+
+
+## Technologies 
+##### Javascript: React, Node, Express, Jest
+##### Ruby: Ruby on Rails, Sinatra, Rspec, Capybara
+##### CSS: Bootstrap
+##### Databases: PosgreSql, MongoDB, SQl Server
+##### Tools: Heroku, Github Actions(CI/CD), Postman, Jira, Splunk, ServiceNow, PagerDuty, Zendesk
+##### OS:Linux, Unix, Microsoft 
 
 ## Work Experience
+
+## Makers Accademy (Dec 2021 - Present)
+
 
 ## Imperial College London (Dec-2020 to Nov-2021)
 Product Engineer
 
-Providing delivery lifecycle product engineering for line of business applications, advising to find appropriate solutions and designing and developing or enhancing new products and providing operational support with respect to incidents. 
+Provided delivery lifecycle product engineering for line of business applications, advising to find appropriate solutions and designing and developing or enhancing new products and providing operational support with respect to incidents. 
 
 ## Informa (Jul 2019 - Dec 2020)
 Application Support Analyst
