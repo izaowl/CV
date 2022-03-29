@@ -23,7 +23,7 @@ business management and the production infrastructure, interacting with all area
 #### Tools: Heroku, Git, Github Actions(CI/CD), Postman, Jira, Confluence, Splunk, ServiceNow, PagerDuty, Zendesk, Salesforce
 #### OS:Linux, Unix, Microsoft 
 #### Agile: Scrum, Kanban, DevOps, XP, TDD, BDD
-#### Zenos, New Relic, Zabbix, Splunk, PagerDuty, 1st, 2nd and 3rd Line Support, Active Directory
+#### Other: Zenos, New Relic, Zabbix, Splunk, PagerDuty, 1st, 2nd and 3rd Line Support, Active Directory
 ## Work Experience
 
 ## Makers Accademy (Dec 2021 - Present)
