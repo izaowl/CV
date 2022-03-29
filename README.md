@@ -20,9 +20,10 @@ business management and the production infrastructure, interacting with all area
 #### Ruby: Ruby on Rails, Sinatra, Rspec, Capybara
 #### CSS: Bootstrap
 #### Databases: PosgreSql, MongoDB, SQl Server
-#### Tools: Heroku, Git, Github Actions(CI/CD), Postman, Jira, Confluence, Splunk, ServiceNow, PagerDuty, Zendesk
+#### Tools: Heroku, Git, Github Actions(CI/CD), Postman, Jira, Confluence, Splunk, ServiceNow, PagerDuty, Zendesk, Salesforce
 #### OS:Linux, Unix, Microsoft 
-
+#### Agile: Scrum, Kanban, DevOps, XP, TDD, CI/CD 
+#### Zenos, New Relic, Zabbix, Splunk, PagerDuty, 1st, 2nd and 3rd Line Support, Active Directory
 ## Work Experience
 
 ## Makers Accademy (Dec 2021 - Present)
