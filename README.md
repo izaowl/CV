@@ -84,7 +84,7 @@ I am currently mentoring a Junior Programmer who is doing Makers course.
 
 ## Hobbies
 
-I am a dog owner and love long distance walking, history and sightseeing. I am a passionate owner of a small collection of indoor plants and an avid reader of books. 
+I am a dog owner and love long distance walking, history, and sightseeing. I am a passionate owner of a small collection of indoor plants and an avid reader of books of various genres. 
 
 ##
 <h3 align="center">Languages and Tools</h3>
