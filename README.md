@@ -79,6 +79,7 @@ Intensive 16 week software engineering bootcamp
 ## Volunteering
 
 I used my Scrum Mastery skills to assist activists who are working towards improvement of Reproductive Rights for Women in Poland and those who are promoting democratic values there. I organised many protests and coordinated online street and online campaigns as a member of Artistic Cooperative https://www.facebook.com/FARSAPL . I am currently working on a project to create educational package for teachers of Polish Language nd Culture Saturday schools for kids in Britain. This package will teach about right that children have enshrined in Polish Constitution. I am also working on desigining mobile phone app for Polish Citicens living abroad who have voting rights, that to be ready for next electio nwhich is coming in 2024.
+
 I am currently mentoring a Junior Programmer who is doing Makers course.
 
 ## Hobbies
