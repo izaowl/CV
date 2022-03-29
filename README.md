@@ -63,28 +63,23 @@ Joined as a Graduate trainee after compleeting my Masters in COmputer Science.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (Nov 2021 to Present)
+##### Makers
+Intensive 16 week software engineering bootcamp
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- TDD: Applying outside-in Test Driven Development and Behaviour Driven Development
+- OOP: Application of OOD and SOLID principles, receiving strong feedback from coaches 3rd party assessors
+- Agile & XP: Running stand-ups, retros, sprints, creating MVPs and user stories, to deliver maximum value
+- Databases: Relational and non-relational: SQL, PostgreSQL, MongoDB
+- REST APIs: Building APIs using Ruby, Rails, Node.js and Postman
+- CI/CD: Using CircleCI and Travis to automate automate builds, run test suites and generate coverage reports
+- Pair Programming: Highly effective at collaborating and pairing with other developersipt
+- RSpec, Jest
 
 ## Volunteering
 
 I used my Scrum Mastery skills to assist activists who are working towards improvement of Reproductive Rights for Women in Poland and those who are promoting democratic values there. I organised many protests and coordinated online street and online campaigns as a member of Artistic Cooperative https://www.facebook.com/FARSAPL . I am currently working on a project to create educational package for teachers of Polish Language nd Culture Saturday schools for kids in Britain. This package will teach about right that children have enshrined in Polish Constitution. I am also working on desigining mobile phone app for Polish Citicens living abroad who have voting rights, that to be ready for next electio nwhich is coming in 2024.
+I am currently mentoring a Junior Programmer who is doing Makers course.
 
 ## Hobbies
 
