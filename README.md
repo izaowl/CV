@@ -19,7 +19,7 @@ business management and the production infrastructure, interacting with all area
 #### Javascript: React, Node, Express, Jest, SQL
 #### Ruby: Ruby on Rails, Sinatra, Rspec, Capybara
 #### CSS: Bootstrap
-#### Databases: PosgreSql, MongoDB, SQl Server
+#### Databases: PosgreSql, MongoDB, SQL Server
 #### Tools: Heroku, Git, Github Actions(CI/CD), Postman, Jira, Confluence, Splunk, ServiceNow, PagerDuty, Zendesk, Salesforce
 #### OS:Linux, Unix, Microsoft 
 #### Agile: Scrum, Kanban, DevOps, XP, TDD, BDD
