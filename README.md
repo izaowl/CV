@@ -1,6 +1,6 @@
 # Izabela Sowula, Msc
 
-Full-stack Junior Software Developer with application support background and 20 years’ experience in the provision and delivery of technical support within the financial services industry, collaboration software house, a transaction-oriented Exhibitions and trade shows provider and a Further Education University, supported by a Masters in Computer Science. 
+Junior Test Engineer with application support background and 20 years’ experience in the provision and delivery of technical support within the financial services industry, collaboration software house, a transaction-oriented Exhibitions and trade shows provider and a Further Education University, supported by a Masters in Computer Science. 
 
 Worked in Agile DevOps environment as the technical bridge between the software engineers, customer operations, product and
 business management and the production infrastructure, interacting with all areas of the business providing technical insight with a strong customer focus for multinational teams. In addition assisted my own team as a Certified Scrum Master.
