@@ -72,6 +72,10 @@ Joined as a Graduate trainee after compleeting my Masters in Computer Science.
 
 ## Education
 
+- Eloqua 2020 Master 		                                                                                                                              2020
+- Certified Scrum Master (CSM), Scrum Alliance 		                                                                                                    2019
+- MSc in Computer Science, Birkbeck College, University of London 	                                                                                  2003
+
 #### Makers Academy (Nov 2021 to Present)
 Intensive 16 week software engineering bootcamp
 
