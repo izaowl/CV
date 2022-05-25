@@ -1,6 +1,6 @@
 # Izabela Sowula, Msc
 
-Junior Test Engineer with application support background and 20 years’ experience in the provision and delivery of technical support within the financial services industry, collaboration software house, a transaction-oriented Exhibitions and trade shows provider and a Further Education University, supported by a Masters in Computer Science. 
+An adaptable graduate of the Makers Academy bootcamp course with application support background and over 20 years’ experience in IT teams in various companies. Joined Makers Academy last year to refresh my knowledge and prepare for a job as a Software Engineer where utilization of solving problem skills, critical thinking skills and build products I wish I could support in the past. Available immediately.
 
 Worked in Agile DevOps environment as the technical bridge between the software engineers, customer operations, product and
 business management and the production infrastructure, interacting with all areas of the business providing technical insight with a strong customer focus for multinational teams. In addition assisted my own team as a Certified Scrum Master.
@@ -9,14 +9,16 @@ business management and the production infrastructure, interacting with all area
 
 | Name                                    | Description                               | Technology/tools                                               |
 | ----------------------------------------| ------------------------------------------| ---------------------------------------------------------------|
-| **[Tasks managment tool server side](https://github.com/mat-diak/snacks-server)**         | Rest API for the server side   | Express, Node, MongoDB, Heroku    
+| **[Tasks managment tool server side](https://github.com/mat-diak/snacks-server)**         | Rest API for the server side   | Express, Node, MongoDB, Heroku, ReactJS, CSS, Bootstrap, JWT, Redux, Netlify    
 | **[Tasks managment tool client side](https://github.com/mat-diak/snacks-client)**         | React solution for the client side                   | ReactJS, CSS, Bootstrap, JWT, Redux, Netlify  | 
 | **[Acebook](https://github.com/izaowl/acebook-five-aces)**             | A webapp clone of Facebook         | Ruby on Rails, CSS, Bootstrap, Heroku, PSQL, HTML, Github Actions (CI/CD)|
+|**[Banking App](https://github.com/izaowl/banking-app)** | Bank Account blance calculating tool | JavaScript, Node, Jest
 
 
 
 ## Technologies 
 #### Javascript: React, Node, Express, Jest
+#### Typescript: React, Node, Express, Jest
 #### Ruby: Ruby on Rails, Sinatra, Rspec, Capybara
 #### CSS: Bootstrap
 #### Databases: PosgreSql, MongoDB, SQL Server
@@ -26,7 +28,14 @@ business management and the production infrastructure, interacting with all area
 #### Other: Zenos, New Relic, Zabbix, Splunk, PagerDuty, 1st, 2nd and 3rd Line Support, Active Directory
 ## Work Experience
 
-## Makers Accademy (Dec 2021 - Present)
+## FULL STACK SOFTWARE ENGINEER TRAINEE @ MAKERS ACADEMY LONDON.               2021 - NOW 
+
+- Innovatively used teamwork and communication skills to work effectively while pair programming and working in groups employing an Agile methodology, Scrum and Modern Agile principles.
+- Learned new technologies rapidly whilst helping other students by sharing learning from existing exposure to working within DevOps teams
+- Mentored a later cohort student practicing empathy and emotional intelligence to create optimal learning environment and share own learnings
+- Honed the growth mindset to optimize learning and continuous improvement of one’s knowledge and discipline.
+
+
 
 
 ## Imperial College London (Dec-2020 to Nov-2021)
@@ -84,7 +93,9 @@ I am currently mentoring a Junior Programmer who is doing Makers course.
 
 ## Hobbies
 
-I am a dog owner and love long distance walking, history, and sightseeing. I am a passionate owner of a small collection of indoor plants and an avid reader of books of various genres. 
+- I am a dog owner and love long distance walking, history, and sightseeing. 
+- I am a passionate owner of a small collection of indoor plants 
+- I am an avid consumer of knowledge, currently reading Bllod and Ruins, The Great Imperial War 1931-1945 and listening to Andrew Huberman Science podcasts
 
 ##
 <h3 align="center">Languages and Tools</h3>
