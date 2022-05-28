@@ -24,6 +24,17 @@ business management and the production infrastructure, interacting with all area
 ###### OS:Linux, Unix, Microsoft 
 ###### Agile: Scrum, Kanban, DevOps, XP, TDD, BDD
 ###### Other: Zenos, New Relic, Zabbix, Splunk, PagerDuty, 1st, 2nd and 3rd Line Support, Active Directory
+
+## Skills
+
+### Excellent communicator
+
+### Fast learner
+
+### Analytical thinker
+
+### Communicator
+
 ## Work Experience
 
 #### Full Stack Software Engineer @ Makers Academy London                                                                                  2021 - NOW 
