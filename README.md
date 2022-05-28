@@ -114,7 +114,7 @@ I am currently mentoring a Junior Programmer who just finished Makers course.
 - I am an avid consumer of knowledge, currently reading Bllod and Ruins, The Great Imperial War 1931-1945 and listening to Andrew Huberman Science podcasts
 
 ## Languages
-I a mbilingual with a Mother toungue Polish. I can also speak basic Russian and understand Ukrainian and Slovakian.
+I am bilingual with a Mother toungue Polish. I can also speak basic Russian and understand Ukrainian and Slovakian.
 
 ##
 <h3 align="center">Languages and Tools</h3>
