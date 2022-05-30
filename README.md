@@ -27,13 +27,17 @@ business management and the production infrastructure, interacting with all area
 
 ## Skills
 
-### Excellent communicator
-
 ### Fast learner
+Every company I worked at had different tech stack and diffferent operated within a different business domain. In order to be a successfull Application SUpport Analyst I needed to learn how everything works very quickly and expand that knolwdge as new systems were upgraded and added. The sectors I have worked in include financial industry, corporate events, further education, collaborative software and subscription data products relating to maritime trade!
 
 ### Analytical thinker
+During my work at various companies I was tasked daily to analyse complex problems involved architecture and technology production issues. I needed to gather data and evidence to progress rapidly and to correctly come up with solution to company's or customers issues.
 
-### Communicator
+### Collaborator
+When working at Wonga in the Agile environment we were faced with numerous production software bugs. We had to make small and impactful changes quickly because the company was making money only when our platform was available 24/7. I was always collaborating with Infrastructure and Development teams, DBA’s, Marketing and Risk Management teams. I worked on shaping up our Post-mortem procedures following most minor and major systems outages. Building trust between teams, delivering improvements and communicating follow-up actions to the relevant teams during and after Root Cause Analysis led to system improvements and better collaborations between teams.
+
+### Systems thinking
+One particular strength I have is the ability to conceive of the solution to a project in terms of the logical layers required by the chosen technology.  For example, I have a clear idea of which elements are appropriate for the controller, view, business logic and data access layers.  I very much enjoy creating a solution which is structured crisply, and I understand the benefits of this especially to the extensibility and testability of the product.
 
 ## Work Experience
 
