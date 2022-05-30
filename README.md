@@ -16,7 +16,7 @@ business management and the production infrastructure, interacting with all area
 
 
 ## Technologies 
-###### Javascript and Typescript: React, Node, Express, Jest
+###### Javascript: React, Node, Express, Jest
 ###### Ruby: Ruby on Rails, Sinatra, Rspec, Capybara
 ###### CSS: Bootstrap
 ###### Databases: PosgreSql, MongoDB, SQL Server
