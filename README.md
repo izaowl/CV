@@ -48,7 +48,7 @@ One particular strength I have is the ability to conceive of the solution to a p
 - Mentored a later cohort student practicing empathy and emotional intelligence to create optimal learning environment and share own learnings
 - Honed the growth mindset to optimize learning and continuous improvement of one’s knowledge and discipline.
 
-#### Product Engineer @ mperial College London                                                                                               2020 2021
+#### Product Engineer @ Imperial College London                                                                                               2020 2021
 
 - Proactively assisted Product Owners and Product Technology Specialist in defining roadmaps and change plans by selecting appropriately from applicable standards, methods, tools and applications. 
 - Identified product enhancements with senior colleagues and the Product Owner to maximize service quality, efficiency and continuity, facilitating collaboration between stakeholders with common objectives
