@@ -1,4 +1,4 @@
-# Izabela Sowula, Msc
+# Izabela Sowula, MSc
 
 An adaptable graduate of the Makers Academy bootcamp course with application support background and over 20 years’ experience in IT teams in various companies. Joined Makers Academy last year to refresh my knowledge and prepare for a job as a Software Engineer where utilization of solving problem skills, critical thinking skills and build products I wish I could support in the past. Available immediately.
 
