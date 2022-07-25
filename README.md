@@ -115,7 +115,7 @@ I am currently mentoring a Junior Programmer who just finished Makers course.
 
 - I am a dog owner and love long distance walking, history, and sightseeing. 
 - I am a passionate owner of a small collection of indoor plants 
-- I am an avid consumer of knowledge, currently reading Bllod and Ruins, The Great Imperial War 1931-1945 and listening to Andrew Huberman Science podcasts
+- I am an avid consumer of knowledge, currently reading Blood and Ruins, The Great Imperial War 1931-1945 and listening to Andrew Huberman Science podcasts
 
 ## Languages
 I am bilingual with a Mother toungue Polish. I can also speak basic Russian and understand Ukrainian and Slovakian.
