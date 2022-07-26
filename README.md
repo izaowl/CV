@@ -28,7 +28,7 @@ business management and the production infrastructure, interacting with all area
 ## Skills
 
 ### Fast learner
-Every company I worked at had different tech stack and diffferent operated within a different business domain. In order to be a successfull Application SUpport Analyst I needed to learn how everything works very quickly and expand that knolwdge as new systems were upgraded and added. The sectors I have worked in include financial industry, corporate events, further education, collaborative software and subscription data products relating to maritime trade!
+Every company I worked at had different tech stack and diffferent operated within a different business domain. In order to be a successfull Application Support Analyst I needed to learn how everything works very quickly and expand that knolwdge as new systems were upgraded and added. The sectors I have worked in include financial industry, corporate events, further education, collaborative software and subscription data products relating to maritime trade.
 
 ### Analytical thinker
 During my work at various companies I was tasked daily to analyse complex problems involved architecture and technology production issues. I needed to gather data and evidence to progress rapidly and to correctly come up with solution to company's or customers issues.
